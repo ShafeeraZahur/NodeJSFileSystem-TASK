@@ -1,0 +1,16 @@
+{
+  "name": "nodejs-filesystem",
+  "version": "1.0.0",
+  "description": "node js file system project",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "run-server": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21"
+  }
+}
